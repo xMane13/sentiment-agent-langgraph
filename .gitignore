@@ -1,0 +1,26 @@
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Config/editor
+.vscode/
+.idea/
+*.swp
+
+# Datos y logs pesados (ajusta según lo que quieras subir)
+logs/
+*.log
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Cachés de Jupyter
+.ipynb_checkpoints/

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "text": "El producto llegó rápido y en perfectas condiciones. Muy satisfecho.",
+    "label": "positive"
+  },
+  {
+    "id": 2,
+    "text": "El servicio fue aceptable, nada especial pero tampoco malo.",
+    "label": "neutral"
+  },
+  {
+    "id": 3,
+    "text": "El envío llegó con una semana de retraso y nadie respondió mis correos.",
+    "label": "negative"
+  },
+  {
+    "id": 4,
+    "text": "Amazing quality! I will definitely buy again.",
+    "label": "positive"
+  },
+  {
+    "id": 5,
+    "text": "The package was fine but the instructions were confusing.",
+    "label": "neutral"
+  },
+  {
+    "id": 6,
+    "text": "La atención al cliente fue pésima, parecían no querer ayudar.",
+    "label": "negative"
+  },
+  {
+    "id": 7,
+    "text": "Todo funcionó como esperaba.",
+    "label": "neutral"
+  },
+  {
+    "id": 8,
+    "text": "Me encantó el diseño y la calidad, superó mis expectativas.",
+    "label": "positive"
+  },
+  {
+    "id": 9,
+    "text": "Horrible experiencia, nunca más compro aquí.",
+    "label": "negative"
+  },
+  {
+    "id": 10,
+    "text": "El producto está bien pero el precio es un poco alto.",
+    "label": "neutral"
+  }
+]
